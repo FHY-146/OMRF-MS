@@ -1,4 +1,4 @@
-This project is example code for the paper "OMRF-MS: Semantic and Spatial Regularisation MRF Model for Semantic Segmentation of High Resolution Remote Sensing Images".
+This project is example code for the paper "OMRF-HS: Object Markov Random Field with Hierarchical Semantic Regularization for High-Resolution Image Semantic Segmentation".
 
 A note on data:
 
